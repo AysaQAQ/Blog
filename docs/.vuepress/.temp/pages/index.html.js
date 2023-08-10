@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"Hello Vuerld\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1691639036000,\"contributors\":[{\"name\":\"Aysa\",\"email\":\"3492380028@qq.com\",\"commits\":1}]},\"filePathRelative\":\"readme.md\"}")
